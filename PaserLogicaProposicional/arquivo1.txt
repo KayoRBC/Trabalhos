@@ -1,4 +1,0 @@
-3
-( \neg T )
-( \disj ( \neg T ) ( \neg T ) ) )
-( \disj ( \implic ( \neg T ) ( \neg T ) ) ( \neg T ) )
